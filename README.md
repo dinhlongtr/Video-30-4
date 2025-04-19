@@ -6,5 +6,5 @@
 3. [Hành Trình](https://drive.google.com/drive/folders/1B89KiFhPrW3eH-D-0iNjpTMjTQ8oTeoQ?usp=drive_link)
 ___
 ## Kinh phí chuyến đi
-1. [Kế Hoạch](https://docs.google.com/spreadsheets/d/1JqUQquOH3TZcYJwEjXH4aLZbk2zb2pF0KmerBihp7Mk/edit?usp=sharing)
+1. [Kế Hoạch](https://docs.google.com/spreadsheets/d/1JqUQquOH3TZcYJwEjXH4aLZbk2zb2pF0KmerBihp7Mk/edit)
 ___
